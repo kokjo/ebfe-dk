@@ -1,0 +1,20 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+exclude: ["deploy.sh", "LICENSE.md"]
+# Setup
+title:            Kokjo's Blog
+description:      'A blog about hacking and CTFs'
+url:              http://ebfe.dk
+baseurl:          /
+
+author:
+  name:           'Jonas Rudloff'
+  github:         https://github.com/kokjo
+
+paginate:         5
