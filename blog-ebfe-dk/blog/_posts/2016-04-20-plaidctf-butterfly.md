@@ -20,6 +20,7 @@ As we can flip arbitary bits in both the code and data, it knew that we should e
 to get control of `rip`.
 
 At the end of `main` we found:
+
 ```text
   400860:   48 83 c4 48             add    rsp,0x48
   400864:   5b                      pop    rbx
