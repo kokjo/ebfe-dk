@@ -8,4 +8,4 @@ docker run -ti --rm \
     -v $SCRIPTPATH/blog:/blog \
     -p 4000:4000 \
     jekyll \
-    jekyll serve --drafts -s /blog
+    jekyll serve --drafts --watch -s /blog
