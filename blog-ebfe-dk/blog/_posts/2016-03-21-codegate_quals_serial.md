@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Codegate Quals 2016 Serial
-comments: false
+comments: true
 category: ctf
 tags: ctf, codegate, reversing, pwnable
 ---

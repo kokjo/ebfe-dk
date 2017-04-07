@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Plaidctf 2016 Butterfly
-comments: false
+comments: true
 category: ctf
 tags: ctf, plaidctf, reversing, pwnable
 ---

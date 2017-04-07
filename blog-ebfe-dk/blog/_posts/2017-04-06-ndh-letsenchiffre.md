@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Nuit du Hack Quals 2017 - Lets Enchiffre
-comments: false
+comments: true
 category: ctf
 tags: ctf, ndh, pwnable, racecondition, protobuf, fedora
 ---
