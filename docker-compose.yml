@@ -3,4 +3,4 @@ services:
     nginx:
         build: nginx-ebfe-dk
         ports: ["80:80"]
-        volumes: ["/public:/public"]
+        volumes: ["/public:/public", "/pcs:/pcs"]
